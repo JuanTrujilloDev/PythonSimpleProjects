@@ -1,0 +1,22 @@
+
+                 RECIBO DE PAGO                    
+                                                   
+    Nombre del vendedor:   A            
+                                                    
+    Nombre del comprador:   A           
+                                                   
+    Cantidad de productos: 1           
+
+    #:1   A    1     
+     Precio por unidad: 1.0      Precio total: 1.0     
+                                              
+                                              
+                                               
+        CANTIDAD TOTAL DE PRODUCTOS: 1 
+        PRECIO TOTAL: 1.0        
+                                              
+                                              
+______________________________________________________________
+                                              
+                 Gracias por su compra        
+                  01/29/21 - 16: 58              
